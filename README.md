@@ -1,7 +1,6 @@
 # Excel-Assignment
 
 # Financial Analysis using Excel
-## Case Study Summary
 
 The Financial Analysis using Excel project involves the following key steps:
 
